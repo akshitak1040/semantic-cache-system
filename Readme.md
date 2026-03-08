@@ -318,6 +318,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 <div align="center">
 
-Built with ❤️ using [SentenceTransformers](https://www.sbert.net/) · [FAISS](https://github.com/facebookresearch/faiss) · [FastAPI](https://fastapi.tiangolo.com/) · [scikit-learn](https://scikit-learn.org/)
+
 
 </div>
